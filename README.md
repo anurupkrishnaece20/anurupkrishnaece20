@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **anurupkrishnaece20/anurupkrishnaece20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on a couple of interesting stuff.
@@ -11,4 +10,4 @@
 - 📫 How to reach me: Email
 - 😄 Pronouns: Lol, iykyk.
 - ⚡ Fun fact: There still are people who believe the earth is flat.
--->
+
