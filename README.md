@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**anurupkrishnaece20/anurupkrishnaece20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**anurupkrishnaece20/anurupkrishnaece20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on a couple of interesting stuff.
 - 🌱 I’m currently learning AI
